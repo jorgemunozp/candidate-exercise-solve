@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea57903a-5efb-40e6-a03c-6f61e8b056ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basicflows/BasicFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dataproviders/DogsDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/errormessages/DoggoNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/errormessages/InvalidDoggyPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/errormessages/MethodsNotAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/dogs-tests.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fVWGnFZP5tGURzl2O4QvlCewCX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_directory_selection": "/Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dataproviders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/resources/dogs-tests.xml">
+    <configuration name="InvalidDoggyPayload" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="candidate-exercise-solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="errormessages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="errormessages" />
+      <option name="MAIN_CLASS_NAME" value="errormessages.InvalidDoggyPayload" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidDoggyPayload.WrongAgeData2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="candidate-exercise-solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="errormessages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="errormessages" />
+      <option name="MAIN_CLASS_NAME" value="errormessages.InvalidDoggyPayload" />
+      <option name="METHOD_NAME" value="WrongAgeData2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidDoggyPayload.WrongBreedData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="candidate-exercise-solve" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="errormessages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="errormessages" />
+      <option name="MAIN_CLASS_NAME" value="errormessages.InvalidDoggyPayload" />
+      <option name="METHOD_NAME" value="WrongBreedData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/resources/dogs-tests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="candidate-exercise-solve" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/dogs-tests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="candidate-exercise-solve" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/resources/dogs-tests.xml" />
+        <item itemvalue="TestNG./Users/axeofspades/IdeaProjects/candidate-exercise-solve/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.InvalidDoggyPayload.WrongAgeData2" />
+        <item itemvalue="TestNG.InvalidDoggyPayload" />
+        <item itemvalue="TestNG.InvalidDoggyPayload.WrongBreedData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea57903a-5efb-40e6-a03c-6f61e8b056ea" name="Changes" comment="" />
+      <created>1713886632914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713886632914</updated>
+    </task>
+    <servers />
+  </component>
+</project>

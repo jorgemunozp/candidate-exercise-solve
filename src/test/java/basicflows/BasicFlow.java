@@ -16,7 +16,7 @@ import static utils.Utils.validRandom;
 public class BasicFlow {
 
 
-    public static final String BASE_URL = "http://127.0.0.1:5001/dogs/";
+    public static final String BASE_URL = "http://127.0.0.1:5000/dogs/";
 
 
     @Test(priority = 1)

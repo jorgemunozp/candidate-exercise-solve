@@ -8,7 +8,7 @@ import static utils.Utils.validRandom;
 
 public class MethodsNotAllowed {
 
-    public static final String ROOT_URL = "http://127.0.0.1:5001/";
+    public static final String ROOT_URL = "http://127.0.0.1:5000/";
     public static final String ERROR_1 = "Woof! Method Not Allowed";
     public static final String ERROR_2 = "Ru Roh Raggy, This should'nt have succeeded";
 

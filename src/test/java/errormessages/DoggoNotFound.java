@@ -12,7 +12,7 @@ import static utils.Utils.invalidRandom;
 
 public class DoggoNotFound {
 
-    public static final String BASE_URL = "http://127.0.0.1:5001/dogs/";
+    public static final String BASE_URL = "http://127.0.0.1:5000/dogs/";
     public static final String ERROR = "Doggo Not Found";
 
     @Test

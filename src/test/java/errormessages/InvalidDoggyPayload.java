@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class InvalidDoggyPayload {
 
-    public static final String BASE_URL = "http://127.0.0.1:5001/dogs/";
+    public static final String BASE_URL = "http://127.0.0.1:5000/dogs/";
     public static final String ERROR = "Invalid Doggy Payload";
 
     @Test
